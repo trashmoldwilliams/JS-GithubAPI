@@ -1,0 +1,20 @@
+$yellow : #ffff99;
+
+body {
+  background: $yellow;
+  padding: 40px 80px;
+  button {
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  #userContainer {
+    display: none;
+  }
+  img {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+  }
+}
